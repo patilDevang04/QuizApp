@@ -1,4 +1,4 @@
-package com.devang.quiz_service.dao;
+package com.devang.quiz_service.model;
 
 import jakarta.persistence.ElementCollection;
 import jakarta.persistence.Entity;
